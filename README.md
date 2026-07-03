@@ -1,2 +1,2 @@
 # test-2
-test 2 for new project
+test 2 for new project git
