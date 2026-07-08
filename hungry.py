@@ -3,6 +3,8 @@ if hungry=="yes":
     print("eat samosa")
     print("eat pizza")
 else:
-    print("do your homework")
+    flow=input("put 1")
+    if flow=="1":
+         print("do your homework")
     
 
